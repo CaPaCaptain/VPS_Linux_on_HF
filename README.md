@@ -8,8 +8,6 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 # Simplified Linux VPS on Hugging Face Spaces
 This is a configuration template for running a simplified Linux VPS on Hugging Face Spaces. It is based on the lightweight Debian Bookworm Slim, pre-installed with basic development tools and the ttyd web terminal, allowing you to access the command line directly in your browser.
 This environment is configured with sudo privileges, making it convenient to install required software (such as OpenClaw) at runtime.
